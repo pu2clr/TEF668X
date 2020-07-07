@@ -4,7 +4,7 @@ The TEF6686 and TEF6688, are single-chip radio ICs including an AM/FM radio tune
 
 This library is under construction...
 
-![Under construction]()
+![Under construction](extras/images/under_construction.png)
 
 This library can be freely distributed using the MIT Free Software model. 
 
