@@ -6,6 +6,7 @@ This library is under construction...
 
 ![Under construction](extras/images/under_construction.png)
 
+
 This library can be freely distributed using the MIT Free Software model. 
 
 [Copyright (c) 2019 Ricardo Lima Caratti](https://pu2clr.github.io/RDA5807/#mit-license). 
